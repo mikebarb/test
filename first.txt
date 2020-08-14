@@ -1,0 +1,2 @@
+This is the first file added into the directory before any git commands (other than init and config).
+Now add this line to the file after the git add first.txt command to put the initial file into staging.
