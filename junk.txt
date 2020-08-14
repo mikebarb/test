@@ -2,6 +2,7 @@ junk.
 x
 # a loop
 for(i=0, i<10, i++){
+    print i;
 }
 # another loop
 for(j=0, j<10, j++){
