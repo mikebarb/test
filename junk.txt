@@ -6,6 +6,6 @@ for(i=0, i<10, i++){
 }
 # another loop
 for(j=0, j<10, j++){
-    print j;
+    print j + 10;
 }
 
